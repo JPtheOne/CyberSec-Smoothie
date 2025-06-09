@@ -1,4 +1,4 @@
-# My own cybersec library.
+# My own cybersec library🛡️
 
 This repository serves as my personal smoothie to document my cybersecurity learning journey. 📚🔍
 Any resource I particularly like will fall in this repo. 
